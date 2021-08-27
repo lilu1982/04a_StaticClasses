@@ -2,7 +2,7 @@ package com.cc.java;
 
 public class App {
 
-	static String preStr = "Das Ergebnis ist: ";
+	static String preStr = "Das Ergebnis ist : ";
 	
 	public static void main(String[] args) {
 		
